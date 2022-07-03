@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+
+
+
+	
+	
+	<title>HardScore</title>
+	
+		<link rel="canonical" href="https://gucam2389.ukit.me">
+	
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta property="og:title" content="Главная" />
+	
+	
+	
+		
+		
+		
+		<meta name="twitter:card" content="summary" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="" />
+		<meta property="og:url" content="https://gucam2389.ukit.me" />
+	
+	<link rel="shortcut icon" href="/favicon.ico?v=017737481030645652" type="image/x-icon">
+	<script>
+	window.developmentMode = false;
+	
+</script>
+	
+	
+	<script defer src="/js/lib/modernizr-webp.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><link rel="stylesheet" href="/css/devicePublish.min.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"><link rel="stylesheet" href="/css/lib/bootstrap.min.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"><link rel="stylesheet" href="/css/lib/animate.min.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"><script async src="/js/ulib/performance.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script>
+		
+	<link rel="stylesheet" href="/sitecss/srcset-62c16663510ead64cd17d8af-all.css?v=2">
+	
+	
+		
+		
+		
+	
+	
+	
+		<link rel="preload" as="style" href="/sitecss/typography.css?v=2" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="/sitecss/typography.css?v=2"></noscript>
+	
+	
+		<link rel="preload" as="style" id="dist-version-css" href="/dist-version/css/pub.v1.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="/dist-version/css/pub.v1.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></noscript>
+	
+
+	<script>
+		(() => {
+			if (matchMedia('screen and (min-width : 992px)').matches) {
+				document.write(`<link 
+					rel="stylesheet"
+					
+					data-device="desktop"
+					class="styleLink"
+					href="/templates/cl_minecraft/css/main-g-theme-site-1-desktop.css"
+				/>`);
+			}
+			if (matchMedia('screen and (min-width: 768px) and (max-width: 991px)').matches) {
+				document.write(`<link 
+					rel="stylesheet"
+					
+					data-device="tablet"
+					class="styleLink"
+					href="/templates/cl_minecraft/css/main-g-theme-site-1-tablet.css"
+				/>`);
+			}
+			if (matchMedia('screen and (max-width : 768px)').matches) {
+				document.write(`<link 
+					rel="stylesheet"
+					
+					data-device="phone"
+					class="styleLink"
+					href="/templates/cl_minecraft/css/main-g-theme-site-1-phone.css"
+				/>`);
+			}
+		})();
+	</script>
+
+	<noscript>
+
+<link rel="stylesheet" href="/templates/cl_minecraft/css/main-g-theme-site-1-desktop.css" media="screen and (min-width : 992px)" />
+
+<link rel="stylesheet" href="/templates/cl_minecraft/css/main-g-theme-site-1-tablet.css" media="screen and (min-width: 768px) and (max-width: 991px)" />
+
+<link rel="stylesheet" href="/templates/cl_minecraft/css/main-g-theme-site-1-phone.css" media="screen and (max-width : 768px)" /></noscript><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"><link type="text/css" rel="stylesheet" href="/css/lib/fontawesome-brand.min.css"><style data-styled="true" data-styled-version="5.0.1">.bnHkQn.uspacer{height:100px;}
+@media (max-width:992px){.bnHkQn.uspacer{height:100px;}}
+@media (max-width:480px){.bnHkQn.uspacer{height:100px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"bnHkQn,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.dielnh.uspacer{height:258px;}
+@media (max-width:992px){.dielnh.uspacer{height:258px;}}
+@media (max-width:480px){.dielnh.uspacer{height:258px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"dielnh,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.dqUhDD.uspacer{height:140px;}
+@media (max-width:992px){.dqUhDD.uspacer{height:140px;}}
+@media (max-width:480px){.dqUhDD.uspacer{height:140px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"dqUhDD,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.ldDCbn.uspacer{height:36px;}
+@media (max-width:992px){.ldDCbn.uspacer{height:36px;}}
+@media (max-width:480px){.ldDCbn.uspacer{height:36px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"ldDCbn,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hPipcK.uspacer{height:239px;}
+@media (max-width:992px){.hPipcK.uspacer{height:239px;}}
+@media (max-width:480px){.hPipcK.uspacer{height:239px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hPipcK,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style><style data-styled="true" data-styled-version="5.0.1">.hAqxkj.uspacer{height:50px;}
+@media (max-width:992px){.hAqxkj.uspacer{height:50px;}}
+@media (max-width:480px){.hAqxkj.uspacer{height:50px;}}
+data-styled.g8[id="sc-Axmtr"]{content:"hAqxkj,"}
+</style>
+
+</head>
+<body>
+	
+	
+	
+	<div id="main">
+		<div id="body" class="g-theme-site-1" data-mode="published" data-site-theme="g-theme-site-1">
+			<div
+				id="body-fict"
+				class="g-theme-block-5 ul-page-common-index"
+				data-theme-block='{"desktop":"g-theme-block-5", "tablet":"g-theme-block-5", "phone":"g-theme-block-5"}'
+				data-block_theme="g-theme-block-5"
+				style="background-image: url(/templates/cl_minecraft/img/full_ePgh2xH2.png); background-size: cover; background-repeat: no-repeat; background-position: 50% 0; "
+				data-parallax="fixedPosition"
+			>
+				
+				
+
+<div id="ul-content">
+	
+			<div  id="ul-id-0-1" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-5" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-5&quot;,&quot;tablet&quot;:&quot;g-theme-block-5&quot;,&quot;phone&quot;:&quot;g-theme-block-5&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="image" data-auto_height="true" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="LT" data-is-100vh-enabled="true" data-position-tablet="LT" data-position-phone="LT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-5 srcset-block-c747265428f29e3ea808a89baaff867a " >
+				<div class="ul-background-block-overlay js-background-overlay"></div><div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" container-fluid js-block-container">
+					<div id="ul-id-0-2" class="row ul-row"><div id="ul-id-0-3" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-0-4" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hPipcK  uspacer"></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-0-5" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-0-5" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><span class="_17fgIIn___block _3u7JUHo___center h1 _1ZnTJVH___span" data-block="true" data-editor="18gt7" data-offset-key="68kdl-0-0"><div data-offset-key="68kdl-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="68kdl-0-0"><span data-text="true">Сервер HardScor</span></span></div></span></div></div></div></div></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-0-6" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-0-6" class="sc-AxjAm StDqM ul-widget-wysivig ul-wysivig-editor "><h4 style="text-align: center;">Всегда онлайн для тебя и&nbsp;твоих друзей!</h4></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-0-7" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr ldDCbn  uspacer"></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-1251-18" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1251-18" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="_17fgIIn___block _3u7JUHo___center normal" data-block="true" data-editor="3eui8" data-offset-key="1ij4-0-0"><div data-offset-key="1ij4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="1ij4-0-0"><span data-text="true">IP: scorkill.aternos.me:27508
+Версия Minecraft: 1.16.5</span></span></div></div></div></div></div></div></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-0-9" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr dielnh  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+			<div  id="ul-id-1252-1" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-5" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-5&quot;,&quot;tablet&quot;:&quot;g-theme-block-5&quot;,&quot;phone&quot;:&quot;g-theme-block-5&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="image" data-auto_height="false" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="LT" data-position-tablet="LT" data-position-phone="LT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-5 srcset-block-a8fec5db30b82ab480809da8bf1b8585  ul-container g-theme-block-1" >
+				<div id="HardScore"></div><div class="ul-background-block-overlay js-background-overlay"></div><div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" container js-block-container">
+					<div id="ul-id-1252-2" class="row ul-row"><div id="ul-id-1252-3" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1252-4" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1252-5" class="row ul-row"><div id="ul-id-1252-6" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1252-7" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1252-7" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><span class="_17fgIIn___block _3u7JUHo___center h1 _1ZnTJVH___span" data-block="true" data-editor="4g4pc" data-offset-key="4m86l-0-0"><div data-offset-key="4m86l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="4m86l-0-0" style="font-weight:bold"><span data-text="true">Discord Сервер Hardscor</span></span></div></span></div></div></div></div></div>
+					</div></div></div><div id="ul-id-1252-17" class="row ul-row"><div id="ul-id-1252-18" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1252-19" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1252-19" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="_17fgIIn___block _3u7JUHo___center normal" data-block="true" data-editor="cabpg" data-offset-key="65af4-0-0"><div data-offset-key="65af4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="65af4-0-0"><span data-text="true">Вступить: </span></span><span class="LreJDHx___wrapper"><a href="https://discord.gg/VgSWGkB7yr" target="_blank" class="HXO9zGZ___link" data-reactlink="true"><span data-offset-key="65af4-1-0"><span data-text="true">https://discord.gg/VgSWGkB7yr</span></span></a></span><span data-offset-key="65af4-2-0"><span data-text="true"> </span></span></div></div></div></div></div></div></div>
+					</div></div></div><div id="ul-id-1252-14" class="row ul-row"><div id="ul-id-1252-15" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1252-16" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+			<div  id="ul-id-1251-54" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-5" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-5&quot;,&quot;tablet&quot;:&quot;g-theme-block-5&quot;,&quot;phone&quot;:&quot;g-theme-block-5&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="image" data-auto_height="true" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="CT" data-position-tablet="CT" data-position-phone="CT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-5 srcset-block-38c98dfe000883e6202dd84e90a906d2  ul-container g-theme-block-5" >
+				<div class="ul-background-block-overlay js-background-overlay"></div><div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" container js-block-container">
+					<div id="ul-id-1251-55" class="row ul-row"><div id="ul-id-1251-56" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-57" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1251-63" class="row ul-row"><div id="ul-id-1251-64" class="col ul-col col-xs-12 col-sm-12 col-md-7">
+					
+					<div
+					
+					
+					id="ul-id-1251-65" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-1251-66" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1251-66" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><h2 class="_17fgIIn___block h2" data-block="true" data-editor="6etfc" data-offset-key="3keqo-0-0"><div data-offset-key="3keqo-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3keqo-0-0" style="color:#1e2026;text-decoration-color:#1e2026;font-weight:bold"><span data-text="true">Как зайти на сервер?</span></span></div></h2><h4 class="_17fgIIn___block h4" data-block="true" data-editor="6etfc" data-offset-key="70fj4-0-0"><div data-offset-key="70fj4-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="70fj4-0-0" style="color:#1e2026;text-decoration-color:#1e2026"><span data-text="true">Для того что бы зайти на сервер, вам нужно установить в любом браузере TLauncher. После установки заходите на ссайт TLauncher и создаёте аккаунт. Теперь заходим в TLauncher и устанавливаем Minecraft версию 1.16.5 и входим в свой созданный аккаунт, после вам нужно быть в белом списке на сервере, а чтобы быть в белом списке вы должны скинуть свой Логин(Никнейм) в майнкрафте разработчику в лс или на сервере Hardscor в Discord. После того как вас добавили в белый список в самом майнкрафте добавляем IP сервера, заходим и играем!</span></span></div></h4></div></div></div></div></div>
+					</div></div><div id="ul-id-1251-67" class="col ul-col col-xs-12 col-sm-12 col-md-5"><div  data-widget="imagezoom" data-options="{&quot;label&quot;:false,&quot;event&quot;:false,&quot;click&quot;:&quot;lightbox&quot;,&quot;altPosition&quot;:&quot;invisible&quot;,&quot;blank&quot;:&quot;_blank&quot;,&quot;proportion&quot;:true}" id="ul-id-1251-68" class="ul-widget ul-w-imagezoom" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="mer">
+
+<div 
+	class="ul-w-wrap ul-w-imagezoom-type-none  ul-imagezoom-published"
+	
+	itemscope itemtype="http://schema.org/ImageObject"
+>
+	
+	<div 
+		class="ul-w-wrap ul-w-imagezoom-type-none  ul-imagezoom-published"
+		
+		itemscope itemtype="http://schema.org/ImageObject"
+	>
+		
+		<div class="ul-w-imagezoom-img-wrap">
+			
+			
+			<div><div class="ul-picture-image-wrapper" style="max-width: 374.234375px"><div class="ul-picture-image-sizer" style="padding-top: 91.97860962566845%;"></div><picture><source type="image/webp" media="(min-width: 1366px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374&webp=1" ><source  media="(min-width: 1366px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374" ><source type="image/webp" media="(min-width: 1170px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374&webp=1" ><source  media="(min-width: 1170px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374" ><source type="image/webp" media="(min-width: 992px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374&webp=1" ><source  media="(min-width: 992px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374" ><source type="image/webp" media="(min-width: 768px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374&webp=1" ><source  media="(min-width: 768px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374" ><source type="image/webp" media="(min-width: 360px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=360&webp=1, /__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374&webp=1 2x" ><source  media="(min-width: 360px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=360, /__scale/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png?quality=60&width=374 2x" > <img alt="" title="" data-lightbox="/templates/cl_minecraft/img/full_c1VP6G5D.png" itemprop="contentUrl" style="margin: 0 auto; display: block; width: 100%;" src="/templates/cl_minecraft/img/autocrop/0e3596c1b5a0ae97673321603f392b36.png" loading="lazy" decoding="async" /></picture></div></div>
+			
+			
+		
+		</div>
+		
+	</div>
+</div>
+</div></div></div><div id="ul-id-1251-69" class="row ul-row"><div id="ul-id-1251-70" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-71" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+			<div  id="ul-id-0-10" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-5" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-5&quot;,&quot;tablet&quot;:&quot;g-theme-block-5&quot;,&quot;phone&quot;:&quot;g-theme-block-5&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="image" data-auto_height="true" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="CT" data-position-tablet="CT" data-position-phone="CT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-5 srcset-block-dfc8e5866721b045a9837254c889f13d " >
+				<div class="ul-background-block-overlay js-background-overlay"></div><div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" container js-block-container">
+					<div id="ul-id-0-11" class="row ul-row"><div id="ul-id-0-12" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-0-13" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr dqUhDD  uspacer"></div>
+					</div></div></div><div id="ul-id-0-14" class="row ul-row"><div id="ul-id-0-15" class="col ul-col col-xs-12 col-sm-12 col-md-5"><div  data-widget="imagezoom" data-options="{&quot;label&quot;:false,&quot;event&quot;:false,&quot;click&quot;:&quot;lightbox&quot;,&quot;altPosition&quot;:&quot;invisible&quot;,&quot;blank&quot;:&quot;_blank&quot;,&quot;proportion&quot;:true}" id="ul-id-0-16" class="ul-widget ul-w-imagezoom" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="mer">
+
+<div 
+	class="ul-w-wrap ul-w-imagezoom-type-none  ul-imagezoom-published"
+	
+	itemscope itemtype="http://schema.org/ImageObject"
+>
+	
+	<div 
+		class="ul-w-wrap ul-w-imagezoom-type-none  ul-imagezoom-published"
+		
+		itemscope itemtype="http://schema.org/ImageObject"
+	>
+		
+		<div class="ul-w-imagezoom-img-wrap">
+			
+			
+			<div><div class="ul-picture-image-wrapper" style="max-width: 389px"><div class="ul-picture-image-sizer" style="padding-top: 88.94601542416453%;"></div><picture><source type="image/webp" media="(min-width: 1366px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389&webp=1" ><source  media="(min-width: 1366px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389" ><source type="image/webp" media="(min-width: 1170px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389&webp=1" ><source  media="(min-width: 1170px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389" ><source type="image/webp" media="(min-width: 992px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389&webp=1" ><source  media="(min-width: 992px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389" ><source type="image/webp" media="(min-width: 768px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389&webp=1" ><source  media="(min-width: 768px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389" ><source type="image/webp" media="(min-width: 360px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=360&webp=1, /__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389&webp=1 2x" ><source  media="(min-width: 360px)" srcset="/__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=360, /__scale/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png?quality=60&width=389 2x" > <img alt="" title="" data-lightbox="/templates/cl_minecraft/img/full_N7mJ9jrh.png" itemprop="contentUrl" style="margin: 0 auto; display: block; width: 100%;" src="/templates/cl_minecraft/img/autocrop/506ed4353c1f2d769946c69bb19c0f19.png" loading="lazy" decoding="async" /></picture></div></div>
+			
+			
+		
+		</div>
+		
+	</div>
+</div>
+</div></div><div id="ul-id-0-17" class="col ul-col col-xs-12 col-sm-12 col-md-7">
+					
+					<div
+					
+					
+					id="ul-id-0-18" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-0-18" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><h2 class="_17fgIIn___block h2" data-block="true" data-editor="foarm" data-offset-key="5uq8l-0-0"><div data-offset-key="5uq8l-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="5uq8l-0-0"><span data-text="true"> </span></span></div></h2><h2 class="_17fgIIn___block h2" data-block="true" data-editor="foarm" data-offset-key="8t8c1-0-0"><div data-offset-key="8t8c1-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8t8c1-0-0" style="color:#1e2026;text-decoration-color:#1e2026;font-weight:bold"><span data-text="true">Создавай, выживай, общайся!</span></span></div></h2><h4 class="_17fgIIn___block h4" data-block="true" data-editor="foarm" data-offset-key="9k2te-0-0"><div data-offset-key="9k2te-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9k2te-0-0" style="color:#1e2026;text-decoration-color:#1e2026"><span data-text="true">Почувствуй себя творцом, выживай, путишествуй, общайся, находи друзей, создавай кланы и многое другое ждёт вас на сервере HardScor!</span></span></div></h4></div></div></div></div></div>
+					</div></div></div><div id="ul-id-0-19" class="row ul-row"><div id="ul-id-0-20" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-0-21" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr bnHkQn  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+			<div  id="ul-id-1249-6" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-5" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-5&quot;,&quot;tablet&quot;:&quot;g-theme-block-5&quot;,&quot;phone&quot;:&quot;g-theme-block-5&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="image" data-auto_height="true" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="LT" data-position-tablet="LT" data-position-phone="LT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-5 srcset-block-52d57cdce9704ff8f61c11d55ff4331d  ul-container g-theme-block-5" >
+				<div class="ul-background-block-overlay js-background-overlay"></div><div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" container js-block-container">
+					<div id="ul-id-1249-7" class="row ul-row"><div id="ul-id-1249-8" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1249-9" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1249-10" class="row ul-row"><div id="ul-id-1249-11" class="col ul-col col-xs-12 col-sm-12 col-md-1">
+					
+					<div
+					
+					
+					id="ul-id-1249-12" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div><div id="ul-id-1249-13" class="col ul-col col-xs-12 col-sm-12 col-md-10">
+					
+					<div
+					
+					
+					id="ul-id-1249-14" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1249-14" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><h2 class="_17fgIIn___block _3u7JUHo___center h2" data-block="true" data-editor="c4n7r" data-offset-key="3f0e7-0-0"><div data-offset-key="3f0e7-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="3f0e7-0-0" style="color:#1e2026;text-decoration-color:#1e2026;font-weight:bold"><span data-text="true">Привилегии</span></span></div></h2><h4 class="_17fgIIn___block _3u7JUHo___center h4" data-block="true" data-editor="c4n7r" data-offset-key="9155p-0-0"><div data-offset-key="9155p-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="9155p-0-0" style="color:#1e2026;text-decoration-color:#1e2026"><span data-text="true">Позволяют разграничивать полномочия игроков на сервере. Даёт возможность определять, что игроки могут или не могут изменять в игровом мире. К покупке привелегий обращатся к разработчику</span></span></div></h4></div></div></div></div></div>
+					</div></div><div id="ul-id-1249-15" class="col ul-col col-xs-12 col-sm-12 col-md-1">
+					
+					<div
+					
+					
+					id="ul-id-1249-16" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1249-17" class="row ul-row"><div id="ul-id-1249-18" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1249-19" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1249-23" class="row ul-row"><div id="ul-id-1249-24" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1249-25" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1249-26" class="row ul-row"><div id="ul-id-1249-27" class="col ul-col col-xs-12 col-sm-12 col-md-4">
+					
+					<div
+					
+					
+					id="ul-id-1249-28" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div><div id="ul-id-1249-29" class="col ul-col col-xs-12 col-sm-12 col-md-4">
+					
+					<div
+					
+					
+					id="ul-id-1249-30" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1249-30" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><h4 class="_17fgIIn___block _3u7JUHo___center h4" data-block="true" data-editor="dmded" data-offset-key="cu2ic-0-0"><div data-offset-key="cu2ic-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cu2ic-0-0" style="color:#1e2026;text-decoration-color:#1e2026;font-weight:bold"><span data-text="true">Спонсор – 50₽</span></span></div></h4><h4 class="_17fgIIn___block h4" data-block="true" data-editor="dmded" data-offset-key="8goih-0-0"><div data-offset-key="8goih-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8goih-0-0" style="color:#1e2026;text-decoration-color:#1e2026;font-weight:bold"><span data-text="true"> </span></span></div></h4><h4 class="_17fgIIn___block h4" data-block="true" data-editor="dmded" data-offset-key="cc39t-0-0"><div data-offset-key="cc39t-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="cc39t-0-0"><br data-text="true"/></span></div></h4></div></div></div></div></div>
+					</div></div><div id="ul-id-1249-35" class="col ul-col col-xs-12 col-sm-12 col-md-4">
+					
+					<div
+					
+					
+					id="ul-id-1249-36" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1249-43" class="row ul-row"><div id="ul-id-1249-44" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1249-45" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+			<div  id="ul-id-1251-0" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-5" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-5&quot;,&quot;tablet&quot;:&quot;g-theme-block-5&quot;,&quot;phone&quot;:&quot;g-theme-block-5&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="image" data-auto_height="false" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="LT" data-position-tablet="LT" data-position-phone="LT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-5 srcset-block-d5c50524f561f550560886ad9fd8541d " >
+				<div class="ul-background-block-overlay js-background-overlay"></div><div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" ul-container-no-padding container-fluid js-block-container">
+					<div id="ul-id-1251-1" class="row ul-row"><div id="ul-id-1251-2" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-3" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1251-4" class="row ul-row"><div id="ul-id-1251-5" class="col ul-col col-xs-12 col-sm-12 col-md-2">
+					
+					<div
+					
+					
+					id="ul-id-1251-6" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div><div id="ul-id-1251-7" class="col ul-col col-xs-12 col-sm-12 col-md-8">
+					
+					<div
+					
+					
+					id="ul-id-1251-8" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1251-8" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><h2 class="_17fgIIn___block _3u7JUHo___center h2" data-block="true" data-editor="cmgrf" data-offset-key="8fvll-0-0"><div data-offset-key="8fvll-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8fvll-0-0"><span data-text="true">Социалные сети разработчика</span></span></div></h2></div></div></div></div></div>
+					</div>
+					
+					<div
+					
+					
+					id="ul-id-1252-0" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1252-0" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="_17fgIIn___block _3u7JUHo___center normal" data-block="true" data-editor="fj5fc" data-offset-key="8o0ac-0-0"><div data-offset-key="8o0ac-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8o0ac-0-0"><span data-text="true">Discord Разработчика: Scorkill#3624</span></span></div></div></div></div></div></div></div>
+					</div><div  data-options="" data-widget="social" id="ul-id-1251-10" class="ul-widget ul-w-social ul-w-social-design3 ul-w-social-custom-design3" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="mer" style="text-align:center; ">
+
+	
+	<span class="ul-w-social-icons" style="display: inline-block;">
+		<!-- NOTE: if 'ul-w-social-icon ul-w-social-<name>' changes, update edit.js -->
+		
+			
+		
+			
+			<span class="ul-w-social-item">
+				<a
+					
+					href="https://vk.com/scorkill"
+					
+					class="ul-w-social-icon ul-w-social-vkontakte ul-w-social-icon-active"
+					target="_blank"
+				></a>
+			</span>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+			<span class="ul-w-social-item">
+				<a
+					
+					href="https://youtube.com/channel/UCreZ9h72tK6P4A6TAOPfNDg/videos"
+					
+					class="ul-w-social-icon ul-w-social-youtube ul-w-social-icon-active"
+					target="_blank"
+				></a>
+			</span>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</span>
+</div></div><div id="ul-id-1251-11" class="col ul-col col-xs-12 col-sm-12 col-md-2">
+					
+					<div
+					
+					
+					id="ul-id-1251-12" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+			<div  id="ul-id-1251-23" style="" data-floating="" data-custom-classes="[]" data-theme="g-theme-block-2" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-2&quot;,&quot;tablet&quot;:&quot;g-theme-block-2&quot;,&quot;phone&quot;:&quot;g-theme-block-2&quot;}" data-device-hidden="{&quot;desktop&quot;:false,&quot;tablet&quot;:false,&quot;phone&quot;:false}" data-vertical-align="0" data-bgtype="color" data-auto_height="false" data-symbol="{&quot;enabled&quot;:false,&quot;sourceBlockId&quot;:&quot;&quot;,&quot;forAllPages&quot;:false,&quot;linkedPages&quot;:[],&quot;symbolBlockPosition&quot;:&quot;header&quot;}" data-position-desktop="LT" data-position-tablet="LT" data-position-phone="LT" class="ul-container hidden-elements-device js-hidden-device-element   g-theme-block-2 srcset-block-aba8c28cbec7555868a1351ef50917a8 " >
+				<div class="ul-shadow-block-overlay js-block-shadow"></div>
+				<div class=" container js-block-container">
+					<div id="ul-id-1251-24" class="row ul-row"><div id="ul-id-1251-25" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-26" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div><div id="ul-id-1251-27" class="row ul-row"><div id="ul-id-1251-28" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-29" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1251-29" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><span class="_17fgIIn___block _3u7JUHo___center h1 _1ZnTJVH___span" data-block="true" data-editor="bs720" data-offset-key="etlbe-0-0"><div data-offset-key="etlbe-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="etlbe-0-0"><span data-text="true">Правила данного сервера!!</span></span></div></span></div></div></div></div></div>
+					</div></div></div><div id="ul-id-1251-30" class="row ul-row"><div id="ul-id-1251-31" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-32" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-1251-32" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><h4 class="_17fgIIn___block _3u7JUHo___center h4" data-block="true" data-editor="c585g" data-offset-key="790pb-0-0"><div data-offset-key="790pb-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="790pb-0-0"><span data-text="true">
+1.1 Незнание правил не освобождает Вас от ответственности.  
+1.2 Администрация имеет право в любое время вносить поправки в данные правила.  
+1.3 Администрация не возвращает игровые вещи, в том числе утраченные в результате багов, ошибок, откатов и прочих непредвиденных случаев.  
+1.4 При вайпе игрового сервера полностью обнуляются игровые аккаунты, удаляются постройки и предметы, в том числе купленные в онлайн-магазине.  
+1.5 Вы обязаны хранить данные Вашего аккаунта в тайне. Безопасность аккаунта лежит полностью на Вас.  
+1.6 Администрация не возмещает ущерб, нанесенный пользователями, частично или полностью получившими доступ к Вашему аккаунту, приватам, игровым предметам и т.п.
+ 
+ 1.7 Ответственность за действия с Вашего аккаунта, совершенные третьими лицами, лежит на вас.  
+1.8 Администрация проекта оставляет за собой право в любой момент отказать Вам в пользовании проектом.  
+1.9 Данные правила действительны до даты их расторжения. Вы можете расторгнуть соглашение с правилами в любой момент, удалив сервер. 
+
+ Постройки.
+2.1 Запрещено строительство нецензурных и оскорбительных слов и построек, способных вызвать конфликты на расовой, религиозной или политической почве. Наказание: бан от 1 до 3 дней / снос постройки.  
+2.2 Запрещены постройки, создающие чрезмерную нагрузку на сервер. Игроки должны соблюдать установленные ограничения (если они есть). Наказание: предупреждение или бан от 1 до 3 дней, снос постройки.  
+2.3 Запрещены постройки, нарушающие законы гравитации (висящие в воздухе). Исключение - тематические постройки. Примечание: правило действует только в основном мире. Наказание: предупреждение с просьбой изменения постройки / снос постройки.  
+2.4 Запрещено владение регионами, в которых продолжительное время отсутствуют постройки, регионами, лежащими в одной плоскости, либо шириной в несколько блоков. Наказание: удаление региона / бан на 1 день.  
+2.5 Запрещено владение спаунерами  в регионах без флага entry deny (доступен только По договорённости с администрацией). Запрещено добавлять в регион игроков без договора с администрацией Наказание: удаление спаунеров /  бан от 1 до 3 дней.  
+2.6 Администрация оставляет за собой право по своему усмотрению сносить постройки, портящие внешний вид местности (с удалением привата). 
+
+ Игровой процесс.  
+3.1 Запрещено использование и распространение любого рода &quot;дополнений&quot; к игре и/или программного обеспечения, способного так или иначе влиять на игровой процесс, нанести вред экономике сервера или предоставить нечестное преимущество перед другими игроками. Наказание: бан от 1 до 30 дней / бессрочный бан.  
+3.2 Запрещено использование и распространение информации о багах, ошибках и недочетах игры, сайта или лаунчера, с целью нанести вред экономике сервера или получить нечестное преимущество перед другими игроками. О всех найденных багах, ошибках и недочетах следует сообщать администрации. Наказание: бан от 1 до 30 дней / бессрочный бан.  
+3.3 Запрещено хранить и использовать предметы, добытые нечестным путем (см п. 3.1, 3.2). Наказание: бан от 1 до 30 дней / бессрочный бан / изъятие предметов, очистка инвентаря, удаление регионов.  
+3.4 Запрещена торговля внутриигровыми ресурсами и аккаунтами за реальные деньги и прочие материальные ценности. Наказание: бан от 1 до 30 дней / бессрочный бан / изъятие предметов, очистка инвентаря, удаление регионов.  
+3.5 Запрещено воровство ресурсов из хранилищ в обход системы защиты (гриферство). Наказание: бан от 1 до 7 дней.  
+3.6 Запрещена порча ландшафта: - недорубы, оставление голых стволов без листвы; - столбы, неприкрытые ямы; - разлитые жидкости; - иные виды порчи ландшафта; Примечание: действует только в основном мире. Наказание: предупреждение (требование исправить) / бан от 1 до 24 часов. 
+ 3.7 Запрещено обманывать игроков с целью собственного обогащения, обманным путем заманивать в ловушки. Наказание: изъятие предметов / бан от 1 до 7 дней / в особо тяжких случаях - бессрочный бан.  
+3.8 Запрещено устанавливать точку спавна своего дома (/sethome) в чужих регионах без разрешения владельца региона. Наказание: предупреждение (удаление точки дома) / бан от 1 до 24 часов.  
+3.9 Запрещено препятствовать работе администрации (отправка запросов телепортации, попытки убить, флуд в личные сообщения и т.д.). Наказание: предупреждение (кик) / мут от 15 до 60 минут / бан от 1 до 24 часов.  
+3.10 Запрещены публичные раздачи ресурсов и домов, а также участие в раздачах. Наказание: изъятие ресурсов / бан от 3 до 24 часов участникам / бан от 1 до 3 дней инициатору Примечание: В особо тяжких случаях к инициатору и участникам раздачи может применять наказание вплоть до бессрочного бана.  
+3.11 Запрещено чрезмерное разведение животных. Ограничение - 50 мобов на 4х4 чанка (64x64 блоков). Наказание: предупреждение / удаление мобов / бан на 1 день.  3.12 Запрещено убийство чужих животных. Наказание: бан от 3 до 24 часов.  
+3.13 Запрещено распространение предметов и услуг, доступных только игрокам со статусами. Наказание: предупреждение / бан от 3 часов до 3 дней / лишение привилегии.  
+3.14 Запрещено содержание иссушителя в качестве домашнего животного. Наказание: предупреждение / убийство иссушителя / бан на 24 часа.  
+3.15 Помеха в Рг- Запрещено, Находится в Рг если Участник сервера против Наказание: предупреждение / бан от 3 часов до 3 дней / лишение привилегии. 
+
+Общение.  
+4.1 Запрещено оскорбление других игроков, разжигание межнациональной розни и религиозных споров. Наказание: мут от 15 минут до 3 часов / бан от 1 до 14 дней.  
+4.2. Запрещено оскорбление администрации. Наказание: мут от 15 минут до 3 часов / бан от 1 дня до бессрочного.  
+4.3 Запрещено чрезмерное употребление ненормативной лексики (мат) в глобальный чат, при общении с администрацией. Наказание: предупреждение / кик / мут от 15 до 60 минут.  
+4.4 Запрещен флуд и капс. Наказание: предупреждение / кик / мут от 15 до 60 минут.  
+4.5 Запрещено выпрашивать что-либо у администрации (ресурсы, модерку, смену времени суток и т.д.). Наказание: предупреждение / кик / мут от 15 до 60 минут.  
+4.6 Запрещено навязчивое обсуждение действий администрации. Наказание: предупреждение / кик / мут от 15 до 3 часов.  
+4.7 Запрещено распространение заведомо ложной информации. Примеры: &quot;завтра вайп&quot;, &quot;сервера закроют&quot; и т.д. Наказание: предупреждение / мут от 15 минут до 3 часов.   
+
+Разное.  
+5.1 Запрещено выдавать себя за Администрацию. Наказание: мут от 15 минут до 3 часов, бан вплоть до бессрочного.  
+5.2 Никнейм (логин) должен соответствовать следующим стандартам: - не менее 3 букв в нике; - не более 6 цифр в нике; - не должен состоять из случайного набора символов; - не должен оскорблять кого-либо; - не должно быть визуального сходства с никами администраторов. Примечание: Сменить ник нельзя! - прежде чем создавать бредовый ник, подумайте несколько раз, нужен ли он вам! Наказание: бессрочный бан.  
+5.3 Префикс должен соответствовать следующим стандартам: - не должен оскорблять кого-либо; - не должен иметь сходства с префиксами администраторов и модераторов проекта. Наказание: предупреждение / кик / бан на 1 день.  
+5.4 Запрещено устанавливать скин, содержащий эротические элементы, способный оскорбить кого-либо или вызвать конфликты на расовой, религиозной или политической почве. Наказание: предупреждение / кик / бан на 1 день.  
+5.5 Запрещено использование дополнительных аккаунтов с целью получения нечестного преимущества перед другими игроками. Наказание: бессрочный бан всех аккаунтов / блокировка по IP.  
+5.6 Запрещена реклама сторонних ресурсов. Наказание: мут от 15 минут до 3 часов / бан вплоть до перманентного.  
+5.7 Запрещено нарушать правила ивентов. Наказание: предупреждение / бан на 1 день 5.8 Запрещено вводить в заблуждение администрацию  до 1 дня / бан вплоть до перманентного.  
+P.S Наказания, указанные через символ &quot;/&quot; могут применяться как по отдельности, так и вместе. Указанные меры наказаний имеют рекомендательный характер, администрация вправе применять наказания по своему усмотрению, однако на это должны быть причины.
+
+</span></span></div></h4><div class="_17fgIIn___block normal" data-block="true" data-editor="c585g" data-offset-key="fmqgq-0-0"><div data-offset-key="fmqgq-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="fmqgq-0-0"><span data-text="true"> </span></span></div></div></div></div></div></div></div>
+					</div></div></div><div id="ul-id-1251-33" class="row ul-row"><div id="ul-id-1251-34" class="col ul-col col-xs-12 col-sm-12 col-md-12">
+					
+					<div
+					
+					
+					id="ul-id-1251-35" class="ul-widget  " type="uSpacer" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div class="sc-Axmtr hAqxkj  uspacer"></div>
+					</div></div></div>
+				</div>
+			</div>
+		
+</div>
+
+
+
+				
+				<div class="ul-col ul-absolute-widgets">
+					
+				</div>
+
+				
+					<div class="ul-project-copyright ul-project-copyright-dark">
+	
+		 <a href="https://ukit.com/ru?utm_source=ukit_new_copyright" target="_blank" rel="nofollow"></a>
+	
+</div>
+				
+
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<div
+		id="upbutton-container"
+		class="ul-upbutton"
+		style=""
+	>
+		<div class="ul-upbutton-icon"></div>
+	</div>
+
+	
+	
+	
+	
+	
+		<div id="js-captchaPublicKey" data-key="6LfX8f4SAAAAAFw7fF08_dNTAmDV61y_OqTK0a71" style="display: none;"></div>
+	
+	
+	
+	
+	
+	
+	
+	<script src="/js/lib/requirejs.min.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script>
+	
+	<script>window.cache = {"site":"gucam2389","siteUrl":"gucam2389","isMainLanding":null,"isULanding":false,"page":"index","isPublished":false,"template":"cl_minecraft","isExistCustomHtml":false,"isScaling":true,"scaleImages":{"images":"all","minDate":"2017-11-07T14:30:00.000Z","templates":null,"webp":1,"defaultQuality":85,"overrideQuality":null,"splitBy":"page","quality":85},"homeClusterDomain":"ukit.com","isRemove":{"header":true,"footer":true},"_hiddenWidgets":{"ul-id-social-header":true,"ul-id-contacts-head":true,"ul-id-header-sitename":true,"ul-id-contacts-top":false,"ul-id-mainmenu-main":true,"ul-id-icon-header":true,"ul-id-wysiwyg-header_text":true,"ul-id-wysiwyg-footercopyright":true},"publishedForm":{"maxFileSize":5,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"feedback":{"maxFileSize":24,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"orderForms":[],"backgroundParams":{"ul-id-0-1":{"desktop":{"bgtype":"image","theme":"g-theme-block-5"},"tablet":{"bgtype":"image","theme":"g-theme-block-5"},"phone":{"bgtype":"image","theme":"g-theme-block-5"}},"ul-id-1252-1":{"desktop":{"bgtype":"image","theme":"g-theme-block-5"},"tablet":{"bgtype":"image","theme":"g-theme-block-5"},"phone":{"bgtype":"image","theme":"g-theme-block-5"}},"ul-id-1251-54":{"desktop":{"bgtype":"image","theme":"g-theme-block-5"},"tablet":{"bgtype":"image","theme":"g-theme-block-5"},"phone":{"bgtype":"image","theme":"g-theme-block-5"}},"ul-id-0-10":{"desktop":{"bgtype":"image","theme":"g-theme-block-5"},"tablet":{"bgtype":"image","theme":"g-theme-block-5"},"phone":{"bgtype":"image","theme":"g-theme-block-5"}},"ul-id-1249-6":{"desktop":{"bgtype":"image","theme":"g-theme-block-5"},"tablet":{"bgtype":"image","theme":"g-theme-block-5"},"phone":{"bgtype":"image","theme":"g-theme-block-5"}},"ul-id-1251-0":{"desktop":{"bgtype":"image","theme":"g-theme-block-5"},"tablet":{"bgtype":"image","theme":"g-theme-block-5"},"phone":{"bgtype":"image","theme":"g-theme-block-5"}},"ul-id-1251-23":{"desktop":{"bgtype":"color","theme":"g-theme-block-2"},"tablet":{"bgtype":"color","theme":"g-theme-block-2"},"phone":{"bgtype":"color","theme":"g-theme-block-2"}}},"googleMapsApiKey":"","yandexMapsApiKey":"","yandexMapsApiKeyEnabled":true,"isScreenshotMode":false,"googleEmbedMapsApiKey":"AIzaSyDSOw3TYN-VvZPNAHs4ItKzdr62LqXuJuM","animation":{"isEnabled":true,"excludedPages":[],"kind":"fadeIn","speed":1},"lazyLoad":{"enabled":true,"range":3},"isDynamicRequireConfEnabled":true,"imagezoom":{"i18n":{"all.of":"из"}}}</script>
+	
+	
+	<script>
+		window.VERSION = '2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4';
+	</script>
+	
+	
+	<script>
+		window.constructorMode = false;
+		window.previewMode = false;
+		window.backupPreviewMode = false;
+		window.neowizardPreviewMode = false;
+		window.cache.headerFooterTheme = "g-theme-block-0";
+		window.cache.isRequireConfLoaded = false;
+		window.cache.isNewRequireConf = true;
+		
+			window.requireFullConfOnce = function(callback) {
+				var eventListener = function () {
+					window.removeEventListener('requireFullConf', eventListener);
+					callback();
+				};
+				window.addEventListener('requireConfReady', eventListener);
+				var requireFullConfEvent = document.createEvent('Event');
+				requireFullConfEvent.initEvent('requireFullConf', true, true);
+				window.dispatchEvent(requireFullConfEvent);
+			};
+		
+	</script>
+	
+	
+	
+	<script>
+	var widgetsData = [];
+	
+	function getSafeWidgetsData() {
+		var base64 = "W3siaWQiOiJ1bC1pZC1jb250YWN0cy1oZWFkIiwidHlwZSI6ImNvbnRhY3RzIiwiZmllbGQiOiJjb250YWN0cyIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1oZWFkZXItc2l0ZW5hbWUiLCJ0eXBlIjoiaGVhZGVyIiwiZmllbGQiOiJzaXRlTmFtZSIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1pY29uLWhlYWRlciIsInR5cGUiOiJpY29uIiwiZmllbGQiOiJsb2dvIiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLTAtMTYiLCJ0eXBlIjoiaW1hZ2V6b29tIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1MS02OCIsInR5cGUiOiJpbWFnZXpvb20iLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC1tYWlubWVudS1tYWluIiwidHlwZSI6Im1haW5tZW51IiwiZmllbGQiOiJtZW51IiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLXNvY2lhbC1oZWFkZXIiLCJ0eXBlIjoic29jaWFsIiwiZmllbGQiOiJzb2NpYWwiLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtMTI1MS0xMCIsInR5cGUiOiJzb2NpYWwiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0wLTIxIiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0wLTkiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTAtMTMiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTAtNyIsInR5cGUiOiJ1U3BhY2VyIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMC00IiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjQ5LTEyIiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjQ5LTkiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktMTYiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktMTkiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktMjUiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktMjgiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktMzYiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktNDUiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNTEtMyIsInR5cGUiOiJ1U3BhY2VyIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1MS02IiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUxLTEyIiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUxLTI2IiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUxLTM1IiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUxLTU3IiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUxLTY1IiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUxLTcxIiwidHlwZSI6InVTcGFjZXIiLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUyLTQiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNTItMTYiLCJ0eXBlIjoidVNwYWNlciIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTAtMTgiLCJ0eXBlIjoid3lzaXd5ZyIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTAtNiIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMC01IiwidHlwZSI6Ind5c2l3eWciLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC13eXNpd3lnLWZvb3RlcmNvcHlyaWdodCIsInR5cGUiOiJ3eXNpd3lnIiwiZmllbGQiOiJjb3B5cmlnaHQiLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtd3lzaXd5Zy1oZWFkZXJfdGV4dCIsInR5cGUiOiJ3eXNpd3lnIiwiZmllbGQiOiJ0YWdsaW5lIiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLTEyNDktMTQiLCJ0eXBlIjoid3lzaXd5ZyIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNDktMzAiLCJ0eXBlIjoid3lzaXd5ZyIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNTEtOCIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1MS0xOCIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1MS0yOSIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1MS0zMiIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1MS02NiIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJtZXIifSx7ImlkIjoidWwtaWQtMTI1Mi0wIiwidHlwZSI6Ind5c2l3eWciLCJjb250cm9scyI6Im1lciJ9LHsiaWQiOiJ1bC1pZC0xMjUyLTciLCJ0eXBlIjoid3lzaXd5ZyIsImNvbnRyb2xzIjoibWVyIn0seyJpZCI6InVsLWlkLTEyNTItMTkiLCJ0eXBlIjoid3lzaXd5ZyIsImNvbnRyb2xzIjoibWVyIn1d";
+		
+		if ( ! widgetsData.length ) {
+			try {
+				widgetsData = JSON.parse(decodeURIComponent(escape(window.atob(base64))));
+			} catch(e) {}
+		}
+		
+		return widgetsData;
+	}
+</script>
+	
+	
+	
+	<script>
+		var widgetsDeps = {"contacts":"widget-contacts-view","icon":"widget-icon-view","imagezoom":"widget-imagezoom-view","mainmenu":"widget-mainmenu-view","social":"widget-social-view"};
+		var widgetsDepsPaths = {"contacts":{"widget-contacts-view":"widgets/contacts/js/view","greenJs":{"viewName":"widget-contacts-view","viewPath":"widgets/contacts/js/view"}},"icon":{"widget-icon-view":"widgets/icon/js/view","greenJs":{"viewName":"widget-icon-view","viewPath":"widgets/icon/js/view"}},"imagezoom":{"widget-imagezoom-view":"widgets/imagezoom/js/view","greenJs":{"viewName":"widget-imagezoom-view","viewPath":"widgets/imagezoom/js/view"}},"mainmenu":{"widget-mainmenu-view":"widgets/mainmenu/js/view","greenJs":{"viewName":"widget-mainmenu-green-view","viewPath":"widgets/mainmenu/js/greenView"}},"social":{"widget-social-view":"widgets/social/js/view","greenJs":{"viewName":"widget-social-view","viewPath":"widgets/social/js/view"}}};
+		
+		
+	</script>
+
+	
+		<script>
+			const state = {
+				initial: true,
+				desktop: false,
+				tablet: false,
+				phone: false,
+			}
+			window.onresize = resize;
+	
+			const currentDevice = document.querySelector('.styleLink').getAttribute('data-device');
+			state[currentDevice] = true;
+	
+			function resize () {
+				if(!state.initial) {
+					if (matchMedia('screen and (min-width : 992px)').matches && !state.desktop) {
+						addTagLinkToHead('/templates/cl_minecraft/css/main-g-theme-site-1-desktop.css');
+						state.desktop = true;
+					}
+					if (matchMedia('screen and (min-width: 768px) and (max-width: 991px)').matches && !state.tablet) {
+						addTagLinkToHead('/templates/cl_minecraft/css/main-g-theme-site-1-tablet.css')
+						state.tablet = true;
+					}
+					if (matchMedia('screen and (max-width : 768px)').matches && !state.phone) {
+						addTagLinkToHead('/templates/cl_minecraft/css/main-g-theme-site-1-phone.css');
+						state.phone = true;
+					}
+				}
+				state.initial = false;
+			}
+	
+			function addTagLinkToHead(href) {
+				const isCecutient = false;
+				const tagLink = document.createElement('link');
+				tagLink.rel = 'stylesheet';
+				tagLink.href = href;
+				if (isCecutient) tagLink.class = 'js-style-main';
+				document.head.appendChild(tagLink);
+			}
+		</script>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+		
+	
+	
+	<script async src="/js/lib/cssrelpreload.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><script defer src="/js/ulib/critical.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><script id="orderform-fallback" defer src="/js/ulib/orderForm.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script>
+						<link rel="preload" as="style" href="/css/require/scroll-animation.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4" onload="this.onload=null;this.rel='stylesheet'">
+						<noscript><link rel="stylesheet" href="/css/require/scroll-animation.css?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></noscript>
+						<script defer src="/js/ulib/scroll-animation.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><script defer src="/js/ulib/parallax.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><script defer src="/js/ulib/upbutton.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><script defer src="/js/ulib/backgroundBlockColor.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script><script defer src="/js/ulib/block-100vh.js?v=2022_06_30T11_43_03_03_00_00f8f2feab55205c49b33629df8602a936912be4"></script>
+	
+	
+		<script>
+	(function (w) {
+		if ( ! w.analyticsHandlers) {
+			w.analyticsHandlers = {};
+		}
+		
+		
+		
+		w.analyticsHandler = function () {
+			var
+				args = Array.prototype.slice.call(arguments),
+				counterPath = args.shift(),
+				counterMethod = args.shift();
+			
+			if (w.analyticsHandlers[counterPath]) {
+				var
+					counterHandler = window[w.analyticsHandlers[counterPath]];
+				
+				if (
+					counterHandler &&
+					typeof counterHandler === 'function'
+				) {
+					
+					counterHandler.apply(counterHandler, args);
+				
+				} else if (
+					counterHandler &&
+					typeof counterHandler[counterMethod] === 'function'
+				) {
+					
+					counterHandler[counterMethod].apply(counterHandler, args);
+					
+				}
+			}
+		};
+		
+		w.analyticsHandler.getCookie = function getCookie(e){var o=document.cookie.match(RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0};
+		w.analyticsHandler.setCookie = function setCookie(e,o,t){t=t||{};var n=t.expires;if("number"==typeof n&&n){var i=new Date;i.setTime(i.getTime()+1e3*n),n=t.expires=i}n&&n.toUTCString&&(t.expires=n.toUTCString()),o=encodeURIComponent(o);var r=e+"="+o;for(var c in t){r+="; "+c;var a=t[c];a!==!0&&(r+="="+a)}document.cookie=r};
+	})(window);
+</script>
+	
+</body>
+</html>
